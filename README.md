@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm in my last semester of college and actively working on improving my MERN stack skills. I'm also building my portfolio and preparing for job opportunities.<br>👯 I'm looking to collaborate on Frontend projects, especially those involving React for frontend and Javscript. I'm interested in building real-world applications to strengthen my skills.<br>🤝 I'm looking for help with Frontend interview preparation, including coding challenges, system design, and best practices for real-world applications.<br>💬 Ask me about my current projects and what I’m learning in the frontend development.<br>⚡ I'm passionate about learning new programming languages and always excited to tackle a new tech stack.
+🔭 I’ve completed my BCA and am currently pursuing MCA, while working as a Frontend Developer Intern at WhatBytes.
+👯 I’m looking to collaborate on Frontend projects (React, JavaScript, Next.js) and love building real-world applications to sharpen my skills.
+🤝 I’m seeking guidance in Frontend interview preparation, including coding challenges, system design, and industry best practices.
+💬 Ask me about my internship journey, my current projects, and what I’m learning in modern frontend development.
+⚡ Passionate about exploring new programming languages, frameworks, and tools, and always excited to work on innovative ideas.
 
 
 ## 🌐 Socials:
